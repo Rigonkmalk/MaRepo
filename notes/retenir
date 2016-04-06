@@ -1,0 +1,60 @@
+break : arrêt spontané de la boucle
+
+
+Les listes : 
+
+On peut mettre n'mporte quoi
+
+On peut mettre d'autre liste à l'intérieur d'une liste
+
+On peut les couper (slicing)
+
+
+Méthodes sur les listes :
+
+append : ajouter à la liste
+
+pop : retire le dernier élément
+
+extend : permet de mettre une liste dans une autre
+
+sort : triage
+
+Liste en intention :
+
+On peut mettre en crochet n'importe quel expression
+
+exemple :
+
+[x for x in range(1,10)]
+
+résultat :
+
+[1,2,3,4,5,6,7,8,9]
+
+[x * x in range 
+
+array :
+
+Liste pour des chiffres.
+
+Les ensembles :
+
+Set en Python
+
+monset => set en python
+
+Tuples :
+
+Bien ! pour les variables constantes :)
+
+On ne peut pas modifier un Tuple
+Optimiser pour la lecture
+
+t()
+t=3,4,'toto'
+tuple('toto')
+
+Dictionnaires :
+
+
